@@ -5,7 +5,7 @@
 *  (including web sites) or distributed to other students.
 * 
 *  Name: Aryan Khurana Student ID: 145282216 Date: 25 July 2023
-*  Link: https://web422-museum-app.netlify.app
+*  Link: https://aryankhurana-museum-app.vercel.app
 *
 ********************************************************************************/ 
 
