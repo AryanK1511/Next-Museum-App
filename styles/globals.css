@@ -1,0 +1,74 @@
+/* ========== GLOBAL STYLES ========== */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #15130c;
+}
+
+.nav-bar {
+    font-weight: 600;
+}
+
+/* ========== HOMEPAGE ========== */
+.intro-para {
+    padding: 10px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.home-wik-link {
+    text-decoration: none;
+}
+
+.neon-glow {
+    box-shadow: 0 0 2.5px #fff, 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff;
+}  
+
+/* ========== CARDS ========== */
+.hero-card {
+    background-color: #15130c;
+    border: 2px solid #fff;
+    box-shadow: 0 0 2.5px #fff, 0 0 2.5px #fff, 0 0 2.5px #fff, 0 0 2.5px #fff;
+    font-weight: 700;
+    color: #fff;
+    margin: 10px;
+}
+
+.card-title {
+    color: #e53170;
+}
+
+.card-date {
+    color: #ff8906;
+}
+  
+.card-image {
+    height: 200px; /* Adjust the height as per your requirement */
+    object-fit: cover;
+}
+
+/* ========== FORM ========== */
+.form-label {
+    font-weight: 600;
+    color: #fff;
+}
+
+.form-label-muted {
+    font-weight: 400;
+    color: #fff;
+}
+
+.is-invalid {
+    color: red;
+}
+
+.form-text {
+    color: #fff;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.form-link {
+    text-decoration: none;
+}
