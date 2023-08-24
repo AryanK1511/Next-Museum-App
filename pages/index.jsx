@@ -1,14 +1,3 @@
-/*********************************************************************************
-*  WEB422 – Assignment 6
-*  I declare that this assignment is my own work in accordance with Seneca Academic Policy.  
-*  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites) or distributed to other students.
-* 
-*  Name: Aryan Khurana Student ID: 145282216 Date: 25 July 2023
-*  Link: https://aryankhurana-museum-app.vercel.app
-*
-********************************************************************************/ 
-
 import React from 'react';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
